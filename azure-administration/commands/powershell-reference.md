@@ -36,7 +36,7 @@ PowerShell unlike CLI uses a single dash to unify the command into a single cons
 
 ## Getting Started
 
-One difference compared to CLI is that if you have not already done so, you are required to install the Az module into PowerShell before you can connect remotely. Unlike CLI which uses a login command, PowerShell uses the term Connect to establish the same connection, similar to logging into the web portal but through a command rather than clicking an empty box to fill in your credentials. Once connected you would select your subscription and whether you are going into development or production, similar to first and second fix,  where first fix is the staging area, installing the cabling and accessories, before production in second fix ensuring the testing is completed before going live.
+One difference compared to CLI is that if you have not already done so, you are required to install the Az module into PowerShell before you can connect remotely. Unlike CLI which uses a login command, PowerShell uses the term Connect to establish the same connection, similar to logging into the web portal but through a command rather than clicking an empty box to fill in your credentials. Once connected you would select your subscription and whether you are going into development or production, similar to first and second fix, where first fix is the running of cables and fixings, and second fix is connecting the accessories before carrying out testing and going live.
 
 | Action | Command |
 |--------|---------|
