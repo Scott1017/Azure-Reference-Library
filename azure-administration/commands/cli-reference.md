@@ -34,7 +34,7 @@ The parameter syntax is designed to keep consistency with the CLI, making it eas
 
 ## Getting Started
 
-The first command to be written in the Azure Command Line Interface (CLI) would be the login of the service to ensure access is granted to the relevant area. This is similar to the web portal but rather than clicking an empty box to fill in your credentials, you are telling Azure the command to carry out the task. Once logged in you would select your subscription and whether you are going into development or production, similar to first and second fix, where first fix is the staging area, installing the cabling and accessories, before production in second fix ensuring the testing is completed before going live.
+The first command to be written in the Azure Command Line Interface (CLI) would be the login of the service to ensure access is granted to the relevant area. This is similar to the web portal but rather than clicking an empty box to fill in your credentials, you are telling Azure the command to carry out the task. Once connected you would select your subscription and whether you are going into development or production, similar to first and second fix, where first fix is the running of cables and fixings, and second fix is connecting the accessories before carrying out testing and going live.
 
 | Action | Command |
 |--------|---------|
